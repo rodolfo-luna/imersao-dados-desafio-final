@@ -28,3 +28,11 @@
   c-0 até c-99: Dados da viabilidade celular.
   
   Nos dados dos resultados, temos o id do experimento e 206 colunas com os mecanismos contendo valor 0 ou 1 informando a ativação do mecanismo(1) ou não(0).
+  
+## Referências
+  
+https://pt.wikipedia.org/wiki/Ensaios_de_viabilidade_celular
+
+https://www.kaggle.com/c/lish-moa/discussion/191487
+
+https://pt.wikipedia.org/wiki/Express%C3%A3o_g%C3%A9nica
